@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdurrohim Sheikh  { align=center }
+# Hi 👋, I'm Abdurrohim Sheikh
 
 ## A passionate full-stack developer:
 
